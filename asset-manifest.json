@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dolar-api/static/css/main.a7d3cb15.css",
+    "main.js": "/Dolar-api/static/js/main.46059b66.js",
+    "index.html": "/Dolar-api/index.html",
+    "main.a7d3cb15.css.map": "/Dolar-api/static/css/main.a7d3cb15.css.map",
+    "main.46059b66.js.map": "/Dolar-api/static/js/main.46059b66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7d3cb15.css",
+    "static/js/main.46059b66.js"
+  ]
+}
